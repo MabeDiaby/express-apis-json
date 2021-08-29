@@ -105,7 +105,9 @@ bookmarks for us.
 
 ### Set Up Book-e Backend
 
-We have a pre-made example here at https://git.generalassemb.ly/sei-712/book-e-json if you'd like to use as a reference
+An example of the finished code can be found at https://git.generalassemb.ly/sei-712/book-e-json if you'd like to use as a reference later
+
+But for now, lets start up fresh. 
 
 Download [Postman here](https://www.postman.com/downloads/) if you
 don't have it already. You'll need to create an account (free!) to use it.
