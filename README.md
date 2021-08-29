@@ -105,9 +105,6 @@ bookmarks for us.
 
 ### Set Up Book-e Backend
 
-An example of the finished code can be found at https://git.generalassemb.ly/sei-712/book-e-json if you'd like to use as a reference later
-
-But for now, lets start up fresh. 
 
 Download [Postman here](https://www.postman.com/downloads/) if you
 don't have it already. You'll need to create an account (free!) to use it.
@@ -142,7 +139,7 @@ anything yet.
 
 ### Build our models
 
-Currently we have two files where models should be. Lets build them out before
+We need some files where models should be. Lets build them out before
 we attempt to use them.
 
 Here's an example for the Bookmark model, let's just talk through this.
