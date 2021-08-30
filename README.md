@@ -105,6 +105,10 @@ bookmarks for us.
 
 ### Set Up Book-e Backend
 
+For this lesson, we are going to be setting up a mock url bookmark app called Book-e.
+A completed version of this project can be found at https://git.generalassemb.ly/sei-712/book-e-json
+As you will see, so much of what we have done so far in this unit, and what we will working with today, is going to be fairly boilerplate material. We have left all the comments up for you to work with and use for your own projects
+
 
 Download [Postman here](https://www.postman.com/downloads/) if you
 don't have it already. You'll need to create an account (free!) to use it.
