@@ -116,6 +116,9 @@ Postman is going to substitute for a front end for our testing purposes.
 Before we can do anything, we need to actually make express work and listen for
 requests.
 
+Lets make a new directory, install and initiate Express, and then make 3 directories: models, views, and controllers. 
+
+
 In your `index.js` file add this below the requires:
 
 ```js
