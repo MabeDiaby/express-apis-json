@@ -486,7 +486,7 @@ const BookmarkSchema = new mongoose.Schema({
 });
 ```
 
-### You do: Index Route: GET Users
+### We do: Index Route: GET Users
 
 Using what we covered earlier, build out the route to GET all users.
 
@@ -496,7 +496,7 @@ Using what we covered earlier, build out the route to GET all users.
 
 > 5 min review
 
-### You do: Show Route: GET one user
+### We do: Show Route: GET one user
 
 Add a new route that gets a single user by id.
 
@@ -505,7 +505,7 @@ Add a new route that gets a single user by id.
 - send a json response
 - test your work using Postman
 
-### We do: Create a user
+### You do: Create a user
 
 Now that we can query users, lets make a route to create a new user. For now, we
 won't add any relations - just creating a single user without favorites.
